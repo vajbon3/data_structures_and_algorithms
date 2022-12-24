@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/algorithms_and_data_structures",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "riddle",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {"app\\": "src/"}
+  }
+}
